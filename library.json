@@ -1,0 +1,13 @@
+{
+"id": "{de142ee1-ec61-4738-bcd9-2615b5cffae5}",
+"author": "Alex Haselberger",
+"name": ´"wiringPI Server Module",
+"url": "www.haselberger.org",
+"compatibility": {
+    "version": "4.2",
+    "date": 1510819940
+},
+"version": "1.0",
+"build": 0,
+"date": 0
+}
